@@ -23,11 +23,23 @@ Curso de 8 horas focado nos fundamentos de C# e .NET, cobrindo desde os primeiro
 csharp-alura-fundamentos/
 ├── Exercicios/
 │   ├── 01-PrimeiroPrograma/
+│   │   ├── AprovadoOuReprovado.cs
+│   │   ├── BoasVindas.cs
+│   │   ├── CalcularSinal.cs
+│   │   ├── ExibirPosicaoLista.cs
+│   │   └── JogoAdivinhacao.cs
 │   ├── 02-TiposEFuncoes/
+│   │   └── TiposEFuncoes.cs
 │   ├── 03-ListasELoops/
-│   ├── 04-Dicionarios/
-│   └── 05-Desafio/
-└── README.md
+│   │   └── NumerosPares.cs
+│   └── 04-Dicionarios/
+│       ├── GerenciamentoEstoque.cs
+│       ├── MediaAluno.cs
+│       ├── MediaVendasCarros.cs
+│       ├── Quiz.cs
+│       └── SistemaLogin.cs
+└── ProjetoFinal/
+    └── ScreenSound.cs
 ```
 
 ---
@@ -55,5 +67,5 @@ csharp-alura-fundamentos/
 
 **Pedro Paulucci Noronha**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulucci27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulucci/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedropaulucci27)
